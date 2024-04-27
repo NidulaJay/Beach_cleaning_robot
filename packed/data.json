@@ -1,0 +1,52 @@
+[
+    {
+        "datetime": "2024-04-01",
+        "weight": 2.05,
+        "angle": 275.22
+    },
+    {
+        "datetime": "2024-03-31",
+        "weight": 5.0,
+        "angle": 95.43
+    },
+    {
+        "datetime": "2024-03-30",
+        "weight": 79.31,
+        "angle": 355.02
+    },
+    {
+        "datetime": "2024-03-29",
+        "weight": 72.83,
+        "angle": 46.09
+    },
+    {
+        "datetime": "2024-03-28",
+        "weight": 20.2,
+        "angle": 69.29
+    },
+    {
+        "datetime": "2024-03-27",
+        "weight": 1.44,
+        "angle": 320.68
+    },
+    {
+        "datetime": "2024-03-26",
+        "weight": 22.65,
+        "angle": 240.09
+    },
+    {
+        "datetime": "2024-03-25",
+        "weight": 19.09,
+        "angle": 28.39
+    },
+    {
+        "datetime": "2024-03-24",
+        "weight": 67.75,
+        "angle": 264.0
+    },
+    {
+        "datetime": "2024-03-23",
+        "weight": 54.51,
+        "angle": 62.28
+    }
+]
